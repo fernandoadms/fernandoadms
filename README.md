@@ -1,7 +1,7 @@
 ## Hi, I'm Fernando Alves! 👋👨🏻‍💻
 
 
-_Tech Lead at [Jussi](https://jussi.gupy.io/)_
+_Software Engineer at [PagSeguro](https://pagseguro.uol.com.br/)_
 
 
 --- 
